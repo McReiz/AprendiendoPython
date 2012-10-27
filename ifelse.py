@@ -1,5 +1,5 @@
 i = "Reiz"
-c = "no"
+c = "si"
 if c == "si":
 	print i + " es genial"
 else:
